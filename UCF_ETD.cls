@@ -1095,7 +1095,7 @@ at the University of Central Florida \par Orlando, Florida}
 \newcommand\contentsname{TABLE OF CONTENTS}
 \newcommand\listfigurename{LIST OF FIGURES}
 \newcommand\listtablename{LIST OF TABLES}
-\newcommand\bibname{LIST OF REFERENCES}
+\newcommand\bibname{References}
 \newcommand\indexname{INDEX}
 \newcommand\figurename{Figure}
 \newcommand\tablename{Table}

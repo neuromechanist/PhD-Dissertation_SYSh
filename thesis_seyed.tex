@@ -13,6 +13,7 @@
 \usepackage{graphics}
 \usepackage{color,soul}
 \usepackage{multirow,makecell}
+\usepackage{pdfpages}
 % \usepackage[backend=biber,style=numeric]{biblatex}    
 % %Use absolute paths to .bib-files for the subfiles to understand their location:
 \usepackage{float}
@@ -75,7 +76,7 @@
 % includes copyright symbol. Term year is automatically inserted before the author name.  Replace the author name with your own, but keep the tilde in place. 
 
 \begin{abstract}
-Seated locomotor tasks such as cycling or recumbent stepping improve walking performance during rehabilitation. Cortical control during walking is most pronounced when the person is perturbed. But, the electrocortical dynamics during perturbed seated tasks has not been studied in detail. The primary purpose of this research was to quantify cortical and muscular responses to mechanical perturbations during recumbent stepping. We also aimed to quantify possible differences between young and older adults' responses to perturbed stepping. Before 
+Seated locomotor tasks such as cycling or recumbent stepping improve walking performance during rehabilitation. Cortical control during walking is most pronounced when the person is perturbed. But, the electrocortical dynamics during perturbed seated tasks has not been studied in detail. The primary purpose of this research was to quantify cortical and muscular responses to mechanical perturbations during recumbent stepping. We also aimed to quantify possible differences between young and older adults' responses to perturbed stepping. Seventeen young adults and eleven older adutls completed four perturbed arms and leg stepping tasks. We perturbed the stepping with brief 200ms increased movement resistance using a controllable serovmotr on our recumbent stepper. We asked subjects to step smoothly, use both arms and legs and follow the visual pacing cue set at 60 steps per minute. We used high-density electroencephalogrphy (EEG) with 128 electrodes to record brain activity, 16 electromyography (EMG) sensors to record muscle actvitty, and stepping kinematics using the servomotor's encoder. 
 % abstract files can be added here.  I recommend using \input over \include
 \end{abstract}
 
@@ -105,41 +106,16 @@ The acknowledgments page is optional. If you choose to use it, it should appear 
 
 \appendix
 
-\chapter{TITLE OF APPENDIX}
+\chapter{IRB DOCUMENTS}
 \newpage
-% You must include a \newpage command after each appendix.  And each appendix can be inserted as a chapter after the \appendix command.  
-
-% This template is set to auto-letter multiple appendices.  
-
-% If you change the secnumdepth to -1  and use multiple appendices, you must include the appendix name with the appendix title, such as APPENDIX A: TITLE.  If you have only one appendix, title it APPENDIX: TITLE.
-
-% If you use chapter numbering and have only one appendix, you will need to comment out line 753 in the class file, containing the command \gdef\thechapter{\@Alph\c@chapter}}, and uncomment line 754 to define \gdef\thechapter{}} and remove the auto-lettering.
+\includepdf[pages=-,scale=.8,pagecommand={}]{img/IRB approval and closure.pdf}
 
 
-\noindent\labelitemi{~Begin appendix text on the page following the buffer page by using the newpage command.}\\
-\labelitemi{~Continue Arabic pagination; do not restart page numbering with an appendix}\\
-\labelitemi{~Use the same style and format for buffer page headings as you do for other body chapter headings.}\\
-\labelitemi{~Letter, don't number, appendixes (e.g. APPENDIX A, APPENDIX B, etc.)}\\
-\labelitemi{~If you have only one appendix, do not letter it at all}\\
-\labelitemi{~Appendixes should follow the margin and other formatting requirements from the rest of the document}\\
-
-
-\chapter{SECOND APPENDIX}
+\chapter{COPYRIGHT PERMISSION LETTERS}
 \newpage
-
-Supplementary documentation.
+\includepdf[pages=-,scale=.8,pagecommand={}]{img/copyright authorization letters_signed-seyed.pdf}
 
 \backmatter
 
-% \begin{thebibliography}{99}
-
-% \bibitem{Turkle95}
-% 	Sherry Turkle,
-% 	\emph{Life on the Screen}.
-% 	Cambridge, MA: MIT Press,
-% 	1995.
-
-% % this template does not include any packages for references.  It is compatible with natbib and other common reference packages, but you will need to add them to the document.
-% \end{thebibliography}
 
 \end{document}
