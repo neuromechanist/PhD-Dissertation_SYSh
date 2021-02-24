@@ -1,0 +1,318 @@
+\begin{thebibliography}{10}
+
+\bibitem{Tsolaki2017-nt}
+A.~C. Tsolaki, V.~Kosmidou, I.~Y. Kompatsiaris, C.~Papadaniil,
+  L.~Hadjileontiadis, A.~Adam, and M.~Tsolaki, ``Brain source localization of
+  {MMN} and {P300} {ERPs} in mild cognitive impairment and alzheimer's disease:
+  a high-density {EEG} approach,'' {\em Neurobiol. Aging}, vol.~55,
+  pp.~190--201, July 2017.
+
+\bibitem{Bradley2016-wg}
+C.~Bradley, N.~Joyce, and L.~Garcia-Larrea, ``Adaptation in human somatosensory
+  cortex as a model of sensory memory construction: a study using high-density
+  {EEG},'' {\em Brain Struct. Funct.}, vol.~221, pp.~421--431, Jan. 2016.
+
+\bibitem{Landsness2011-mr}
+E.~C. Landsness, M.~R. Goldstein, M.~J. Peterson, G.~Tononi, and R.~M. Benca,
+  ``Antidepressant effects of selective slow wave sleep deprivation in major
+  depression: a high-density {EEG} investigation,'' {\em J. Psychiatr. Res.},
+  vol.~45, pp.~1019--1026, Aug. 2011.
+
+\bibitem{Nystrom2008-ex}
+P.~Nystr{\"o}m, ``The infant mirror neuron system studied with high density
+  {EEG},'' {\em Soc. Neurosci.}, vol.~3, no.~3-4, pp.~334--347, 2008.
+
+\bibitem{Kline2015-mf}
+J.~E. Kline, H.~J. Huang, K.~L. Snyder, and D.~P. Ferris, ``Isolating
+  gait-related movement artifacts in electroencephalography during human
+  walking,'' {\em J. Neural Eng.}, vol.~12, p.~046022, Aug. 2015.
+
+\bibitem{Symeonidou2018-ge}
+E.-R. Symeonidou, A.~D. Nordin, W.~D. Hairston, and D.~P. Ferris, ``Effects of
+  cable sway, electrode surface area, and electrode mass on
+  electroencephalography signal quality during motion,'' {\em Sensors},
+  vol.~18, Apr. 2018.
+
+\bibitem{Delorme2012-re}
+A.~Delorme, J.~Palmer, J.~Onton, R.~Oostenveld, and S.~Makeig, ``Independent
+  {EEG} sources are dipolar,'' {\em PLoS One}, vol.~7, p.~e30135, Feb. 2012.
+
+\bibitem{Mullen2013-xv}
+T.~Mullen, C.~Kothe, Y.~M. Chi, A.~Ojeda, T.~Kerth, S.~Makeig, G.~Cauwenberghs,
+  and T.-P. Jung, ``Real-time modeling and {3D} visualization of source
+  dynamics and connectivity using wearable {EEG},'' {\em Conf. Proc. IEEE Eng.
+  Med. Biol. Soc.}, vol.~2013, pp.~2184--2187, 2013.
+
+\bibitem{Artoni2014-jy}
+F.~Artoni, D.~Menicucci, A.~Delorme, S.~Makeig, and S.~Micera, ``{RELICA}: A
+  method for estimating the reliability of independent components,'' {\em
+  Neuroimage}, vol.~103, pp.~391--400, Dec. 2014.
+
+\bibitem{Oliveira2016-hy}
+A.~S. Oliveira, B.~R. Schlink, W.~D. Hairston, P.~K{\"o}nig, and D.~P. Ferris,
+  ``Induction and separation of motion artifacts in {EEG} data using a mobile
+  phantom head device,'' {\em J. Neural Eng.}, vol.~13, p.~036014, June 2016.
+
+\bibitem{Nordin2018-aq}
+A.~D. Nordin, W.~D. Hairston, and D.~P. Ferris, ``Dual-electrode motion
+  artifact cancellation for mobile electroencephalography,'' {\em J. Neural
+  Eng.}, vol.~15, p.~056024, Oct. 2018.
+
+\bibitem{Seeber2019-dn}
+M.~Seeber, L.-M. Cantonas, M.~Hoevels, T.~Sesia, V.~Visser-Vandewalle, and
+  C.~M. Michel, ``Subcortical electrophysiological activity is detectable with
+  high-density {EEG} source imaging,'' {\em Nat. Commun.}, vol.~10, p.~753,
+  Feb. 2019.
+
+\bibitem{Hedrich2017-of}
+T.~Hedrich, G.~Pellegrino, E.~Kobayashi, J.~M. Lina, and C.~Grova, ``Comparison
+  of the spatial resolution of source imaging techniques in high-density {EEG}
+  and {MEG},'' {\em Neuroimage}, vol.~157, pp.~531--544, Aug. 2017.
+
+\bibitem{Klamer2015-yp}
+S.~Klamer, A.~Elshahabi, H.~Lerche, C.~Braun, M.~Erb, K.~Scheffler, and N.~K.
+  Focke, ``Differences between {MEG} and high-density {EEG} source
+  localizations using a distributed source model in comparison to {fMRI},''
+  {\em Brain Topogr.}, vol.~28, pp.~87--94, Jan. 2015.
+
+\bibitem{Scarff2004-ll}
+C.~J. Scarff, A.~Reynolds, B.~G. Goodyear, C.~W. Ponton, J.~C. Dort, and J.~J.
+  Eggermont, ``Simultaneous {3-T} {fMRI} and high-density recording of human
+  auditory evoked potentials,'' {\em Neuroimage}, vol.~23, pp.~1129--1142, Nov.
+  2004.
+
+\bibitem{Lantz2003-om}
+G.~Lantz, R.~Grave~de Peralta, L.~Spinelli, M.~Seeck, and C.~M. Michel,
+  ``Epileptic source localization with high density {EEG}: how many electrodes
+  are needed?,'' {\em Clin. Neurophysiol.}, vol.~114, pp.~63--69, Jan. 2003.
+
+\bibitem{He1989-dw}
+B.~He and T.~Musha, ``Effects of cavities on {EEG} dipole localization and
+  their relations with surface electrode positions,'' {\em Int. J. Biomed.
+  Comput.}, vol.~24, pp.~269--282, Dec. 1989.
+
+\bibitem{Keil2014-mv}
+A.~Keil, S.~Debener, G.~Gratton, M.~Jungh{\"o}fer, E.~S. Kappenman, S.~J. Luck,
+  P.~Luu, G.~A. Miller, and C.~M. Yee, ``Committee report: publication
+  guidelines and recommendations for studies using electroencephalography and
+  magnetoencephalography,'' {\em Psychophysiology}, vol.~51, pp.~1--21, Jan.
+  2014.
+
+\bibitem{Kavanagk1978-zc}
+R.~N. Kavanagk, T.~M. Darcey, D.~Lehmann, and D.~H. Fender, ``Evaluation of
+  methods for {Three-Dimensional} localization of electrical sources in the
+  human brain,'' {\em IEEE Transactions on Biomedical Engineering},
+  vol.~BME-25, pp.~421--429, Sept. 1978.
+
+\bibitem{Khosla1999-bz}
+D.~Khosla, M.~Don, and B.~Kwong, ``Spatial mislocalization of {EEG} electrodes
+  -- effects on accuracy of dipole estimation,'' {\em Clin. Neurophysiol.},
+  vol.~110, pp.~261--271, Feb. 1999.
+
+\bibitem{Wang2001-fp}
+Y.~Wang and J.~Gotman, ``The influence of electrode location errors on {EEG}
+  dipole source localization with a realistic head model,'' {\em Clin.
+  Neurophysiol.}, vol.~112, pp.~1777--1780, Sept. 2001.
+
+\bibitem{Beltrachini2011-je}
+L.~Beltrachini, N.~von Ellenrieder, and C.~H. Muravchik, ``General bounds for
+  electrode mislocation on the {EEG} inverse problem,'' {\em Comput. Methods
+  Programs Biomed.}, vol.~103, pp.~1--9, July 2011.
+
+\bibitem{Akalin_Acar2013-rv}
+Z.~Akalin~Acar and S.~Makeig, ``Effects of forward model errors on {EEG} source
+  localization,'' {\em Brain Topogr.}, vol.~26, pp.~378--396, July 2013.
+
+\bibitem{Marino2016-pu}
+M.~Marino, Q.~Liu, S.~Brem, N.~Wenderoth, and D.~Mantini, ``Automated detection
+  and labeling of high-density {EEG} electrodes from structural {MR} images,''
+  {\em J. Neural Eng.}, vol.~13, p.~056003, Oct. 2016.
+
+\bibitem{Koessler2007-qg}
+L.~Koessler, L.~Maillard, A.~Benhadid, J.-P. Vignal, M.~Braun, and
+  H.~Vespignani, ``Spatial localization of {EEG} electrodes,'' {\em
+  Neurophysiol. Clin.}, vol.~37, pp.~97--102, Apr. 2007.
+
+\bibitem{Rodriguez-Calvache2018-qi}
+M.~Rodr{\'\i}guez-Calvache, A.~Calle, S.~Valderrama, I.~A. L{\'o}pez, and J.~D.
+  L{\'o}pez, ``Analysis of exact electrode positioning systems for
+  {Multichannel-EEG},'' in {\em Applied Computer Sciences in Engineering},
+  pp.~523--534, Springer International Publishing, 2018.
+
+\bibitem{Engels2013-gm}
+L.~Engels, N.~Warzee, and X.~De~Tiege, ``Method of locating eeg and meg sensors
+  on a head,'' Feb. 2013.
+
+\bibitem{Cline2018-qo}
+C.~C. Cline, C.~Coogan, and B.~He, ``{EEG} electrode digitization with
+  commercial virtual reality hardware,'' {\em PLoS One}, vol.~13, p.~e0207516,
+  Nov. 2018.
+
+\bibitem{Koessler2010-fm}
+L.~Koessler, T.~Cecchin, E.~Ternisien, and L.~Maillard, ``{3D} handheld laser
+  scanner based approach for automatic identification and localization of {EEG}
+  sensors,'' {\em Conf. Proc. IEEE Eng. Med. Biol. Soc.}, vol.~2010,
+  pp.~3707--3710, 2010.
+
+\bibitem{Baysal2010-zi}
+U.~Baysal and G.~Seng{\"u}l, ``Single camera photogrammetry system for {EEG}
+  electrode identification and localization,'' {\em Ann. Biomed. Eng.},
+  vol.~38, pp.~1539--1547, Apr. 2010.
+
+\bibitem{Clausner2017-hv}
+T.~Clausner, S.~S. Dalal, and M.~Crespo-Garc{\'\i}a, ``{Photogrammetry-Based}
+  head digitization for rapid and accurate localization of {EEG} electrodes and
+  {MEG} fiducial markers using a single digital {SLR} camera,'' {\em Front.
+  Neurosci.}, vol.~11, p.~264, May 2017.
+
+\bibitem{Reis2015-lt}
+P.~M.~R. Reis and M.~Lochmann, ``Using a motion capture system for spatial
+  localization of {EEG} electrodes,'' {\em Front. Neurosci.}, vol.~9, p.~130,
+  Apr. 2015.
+
+\bibitem{Russell2005-hg}
+G.~S. Russell, K.~Jeffrey~Eriksen, P.~Poolman, P.~Luu, and D.~M. Tucker,
+  ``Geodesic photogrammetry for localizing sensor positions in dense-array
+  {EEG},'' {\em Clin. Neurophysiol.}, vol.~116, pp.~1130--1140, May 2005.
+
+\bibitem{Song2018-qz}
+C.~Song, S.~Jeon, S.~Lee, H.-G. Ha, J.~Kim, and J.~Hong, ``Augmented
+  reality-based electrode guidance system for reliable
+  electroencephalography,'' {\em Biomed. Eng. Online}, vol.~17, p.~64, May
+  2018.
+
+\bibitem{noauthor_undated-al}
+``xensor™ | {ANT} neuro.'' \url{https://www.ant-neuro.com/products/xensor}.
+\newblock Accessed: 2019-2-8.
+
+\bibitem{noauthor_undated-tn}
+``Brainsight {TMS} navigation - rogue resolutions.''
+  \url{https://www.rogue-resolutions.com/catalogue/neuro-navigation/brainsight-tms-navigation/}.
+\newblock Accessed: 2019-2-8.
+
+\bibitem{Chen1987-py}
+C.~Chen and A.~Kak, ``Modeling and calibration of a structured light scanner
+  for {3-D} robot vision,'' in {\em Proceedings. 1987 {IEEE} International
+  Conference on Robotics and Automation}, vol.~4 of {\em Proceedings. 1987 IEEE
+  International Conference on Robotics and Automation}, pp.~807--815,
+  ieeexplore.ieee.org, Mar. 1987.
+
+\bibitem{Delorme2004-yy}
+A.~Delorme and S.~Makeig, ``{EEGLAB}: an open source toolbox for analysis of
+  single-trial {EEG} dynamics including independent component analysis,'' {\em
+  J. Neurosci. Methods}, vol.~134, pp.~9--21, Mar. 2004.
+
+\bibitem{Oostenveld2010-ss}
+R.~Oostenveld, P.~Fries, E.~Maris, and J.-M. Schoffelen, ``{FieldTrip}: Open
+  source software for advanced analysis of {MEG}, {EEG}, and invasive
+  electrophysiological data,'' {\em Comput. Intell. Neurosci.}, vol.~2011, Dec.
+  2010.
+
+\bibitem{Taberna2019-zv}
+G.~A. Taberna, M.~Marino, M.~Ganzetti, and D.~Mantini, ``Spatial localization
+  of {EEG} electrodes using {3D} scanning,'' {\em J. Neural Eng.}, Jan. 2019.
+
+\bibitem{Vema_Krishna_Murthy2014-qk}
+S.~Vema Krishna~Murthy, M.~MacLellan, S.~Beyea, and T.~Bardouille, ``Faster and
+  improved {3-D} head digitization in {MEG} using kinect,'' {\em Front.
+  Neurosci.}, vol.~8, p.~326, Oct. 2014.
+
+\bibitem{Zhang2014-jh}
+J.~Zhang, J.~Chen, S.~Chen, G.~Xiao, and X.~Li, ``Multimodal spatial
+  calibration for accurately registering {EEG} sensor positions,'' {\em Comput.
+  Math. Methods Med.}, vol.~2014, p.~826019, Apr. 2014.
+
+\bibitem{Klem1999-ai}
+G.~H. Klem, H.~O. L{\"u}ders, H.~H. Jasper, and C.~Elger, ``The ten-twenty
+  electrode system of the international federation. the international
+  federation of clinical neurophysiology,'' {\em Electroencephalogr. Clin.
+  Neurophysiol. Suppl.}, vol.~52, pp.~3--6, 1999.
+
+\bibitem{Dalal2014-nk}
+S.~S. Dalal, S.~Rampp, F.~Willomitzer, and S.~Ettl, ``Consequences of {EEG}
+  electrode position error on ultimate beamformer source reconstruction
+  performance,'' {\em Front. Neurosci.}, vol.~8, p.~42, Mar. 2014.
+
+\bibitem{Palmer2007-sv}
+J.~A. Palmer, K.~Kreutz-Delgado, B.~D. Rao, and S.~Makeig, ``Modeling and
+  estimation of dependent subspaces with non-radially symmetric and skewed
+  densities,'' in {\em Independent Component Analysis and Signal Separation},
+  pp.~97--104, Springer Berlin Heidelberg, 2007.
+
+\bibitem{Evans1993-nx}
+A.~C. Evans, D.~L. Collins, S.~R. Mills, E.~D. Brown, R.~L. Kelly, and T.~M.
+  Peters, ``{3D} statistical neuroanatomical models from 305 {MRI} volumes,''
+  in {\em 1993 {IEEE} Conference Record Nuclear Science Symposium and Medical
+  Imaging Conference}, pp.~1813--1817 vol.3, Oct. 1993.
+
+\bibitem{Moshtagh2005-em}
+N.~Moshtagh, ``Minimum volume enclosing ellipsoid,'' {\em
+  pdfs.semanticscholar.org}, 2005.
+
+\bibitem{Bigdely-Shamlo2013-jv}
+N.~Bigdely-Shamlo, T.~Mullen, K.~Kreutz-Delgado, and S.~Makeig, ``Measure
+  projection analysis: a probabilistic approach to {EEG} source comparison and
+  multi-subject inference,'' {\em Neuroimage}, vol.~72, pp.~287--303, May 2013.
+
+\bibitem{Lancaster2000-aj}
+J.~L. Lancaster, M.~G. Woldorff, L.~M. Parsons, M.~Liotti, C.~S. Freitas,
+  L.~Rainey, P.~V. Kochunov, D.~Nickerson, S.~A. Mikiten, and P.~T. Fox,
+  ``Automated talairach atlas labels for functional brain mapping,'' {\em Hum.
+  Brain Mapp.}, vol.~10, pp.~120--131, July 2000.
+
+\bibitem{Oostenveld2001-vg}
+R.~Oostenveld and P.~Praamstra, ``The five percent electrode system for
+  high-resolution {EEG} and {ERP} measurements,'' {\em Clin. Neurophysiol.},
+  vol.~112, pp.~713--719, Apr. 2001.
+
+\bibitem{Chen2019-sc}
+S.~Chen, Y.~He, H.~Qiu, X.~Yan, and M.~Zhao, ``Spatial localization of {EEG}
+  electrodes in a {TOF+CCD} camera system,'' {\em Front. Neuroinform.},
+  vol.~13, p.~21, Apr. 2019.
+
+\bibitem{Homolle2019-pd}
+S.~Hom{\"o}lle and R.~Oostenveld, ``Using a structured-light {3D} scanner to
+  improve {EEG} source modeling with more accurate electrode positions,'' {\em
+  J. Neurosci. Methods}, p.~108378, July 2019.
+
+\bibitem{Van_Hoey2000-jt}
+G.~Van~Hoey, B.~Vanrumste, M.~D'Hav{\'e}, R.~Van~de Walle, I.~Lemahieu, and
+  P.~Boon, ``Influence of measurement noise and electrode mislocalisation on
+  {EEG} dipole-source localisation,'' {\em Med. Biol. Eng. Comput.}, vol.~38,
+  pp.~287--296, May 2000.
+
+\bibitem{Shirazi2019-ke}
+S.~Y. Shirazi and H.~J. Huang, ``Influence of mismarking fiducial locations on
+  {EEG} source estimation*,'' in {\em 2019 9th International {IEEE/EMBS}
+  Conference on Neural Engineering ({NER})}, pp.~377--380, Mar. 2019.
+
+\bibitem{Akalin_Acar2016-jr}
+Z.~Akalin~Acar, C.~E. Acar, and S.~Makeig, ``Simultaneous head tissue
+  conductivity and {EEG} source location estimation,'' {\em Neuroimage},
+  vol.~124, pp.~168--180, Jan. 2016.
+
+\bibitem{Mahjoory2017-jv}
+K.~Mahjoory, V.~V. Nikulin, L.~Botrel, K.~Linkenkaer-Hansen, M.~M. Fato, and
+  S.~Haufe, ``Consistency of {EEG} source localization and connectivity
+  estimates,'' {\em Neuroimage}, vol.~152, pp.~590--601, May 2017.
+
+\bibitem{Song2015-fv}
+J.~Song, C.~Davey, C.~Poulsen, P.~Luu, S.~Turovets, E.~Anderson, K.~Li, and
+  D.~Tucker, ``{EEG} source localization: Sensor density and head surface
+  coverage,'' {\em J. Neurosci. Methods}, vol.~256, pp.~9--21, Dec. 2015.
+
+\bibitem{Beltrachini2019-lf}
+L.~Beltrachini, ``Sensitivity of the projected subtraction approach to mesh
+  degeneracies and its impact on the forward problem in {EEG},'' {\em IEEE
+  Trans. Biomed. Eng.}, vol.~66, pp.~273--282, Jan. 2019.
+
+\bibitem{Bradley2016-sk}
+A.~Bradley, J.~Yao, J.~Dewald, and C.-P. Richter, ``Evaluation of
+  electroencephalography source localization algorithms with multiple cortical
+  sources,'' {\em PLoS One}, vol.~11, p.~e0147266, Jan. 2016.
+
+\bibitem{Acar2010-ye}
+Z.~A. Acar and S.~Makeig, ``Neuroelectromagnetic forward head modeling
+  toolbox,'' {\em J. Neurosci. Methods}, vol.~190, pp.~258--270, July 2010.
+
+\end{thebibliography}

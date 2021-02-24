@@ -1,0 +1,57 @@
+\begin{thebibliography}{10}
+
+\bibitem{Koessler2007-qg}
+L.~Koessler, L.~Maillard, A.~Benhadid, J.-P. Vignal, M.~Braun, and
+  H.~Vespignani, ``Spatial localization of {EEG} electrodes,'' {\em
+  Neurophysiol. Clin.}, vol.~37, pp.~97--102, Apr. 2007.
+
+\bibitem{Fuchs2007-dd}
+M.~Fuchs, M.~Wagner, and J.~Kastner, ``Development of volume conductor and
+  source models to localize epileptic foci,'' {\em J. Clin. Neurophysiol.},
+  vol.~24, pp.~101--119, Apr. 2007.
+
+\bibitem{Akalin_Acar2013-rv}
+Z.~Akalin~Acar and S.~Makeig, ``Effects of forward model errors on {EEG} source
+  localization,'' {\em Brain Topogr.}, vol.~26, pp.~378--396, July 2013.
+
+\bibitem{Marino2016-pu}
+M.~Marino, Q.~Liu, S.~Brem, N.~Wenderoth, and D.~Mantini, ``Automated detection
+  and labeling of high-density {EEG} electrodes from structural {MR} images,''
+  {\em J. Neural Eng.}, vol.~13, p.~056003, Oct. 2016.
+
+\bibitem{Beltrachini2011-je}
+L.~Beltrachini, N.~von Ellenrieder, and C.~H. Muravchik, ``General bounds for
+  electrode mislocation on the {EEG} inverse problem,'' {\em Comput. Methods
+  Programs Biomed.}, vol.~103, pp.~1--9, July 2011.
+
+\bibitem{Dalal2014-nk}
+S.~S. Dalal, S.~Rampp, F.~Willomitzer, and S.~Ettl, ``Consequences of {EEG}
+  electrode position error on ultimate beamformer source reconstruction
+  performance,'' {\em Front. Neurosci.}, vol.~8, p.~42, Mar. 2014.
+
+\bibitem{Delorme2004-yy}
+A.~Delorme and S.~Makeig, ``{EEGLAB}: an open source toolbox for analysis of
+  single-trial {EEG} dynamics including independent component analysis,'' {\em
+  J. Neurosci. Methods}, vol.~134, pp.~9--21, Mar. 2004.
+
+\bibitem{Luu2017-ph}
+T.~P. Luu, J.~A. Brantley, S.~Nakagome, F.~Zhu, and J.~L. Contreras-Vidal,
+  ``Electrocortical correlates of human level-ground, slope, and stair
+  walking,'' {\em PLoS One}, vol.~12, p.~e0188500, Nov. 2017.
+
+\bibitem{Peterson2018-ht}
+S.~M. Peterson and D.~P. Ferris, ``Differentiation in theta and beta
+  electrocortical activity between visual and physical perturbations to walking
+  and standing balance,'' {\em eNeuro}, vol.~5, July 2018.
+
+\bibitem{Clausner2017-hv}
+T.~Clausner, S.~S. Dalal, and M.~Crespo-Garc{\'\i}a, ``{Photogrammetry-Based}
+  head digitization for rapid and accurate localization of {EEG} electrodes and
+  {MEG} fiducial markers using a single digital {SLR} camera,'' {\em Front.
+  Neurosci.}, vol.~11, p.~264, May 2017.
+
+\bibitem{Acar2010-ye}
+Z.~A. Acar and S.~Makeig, ``Neuroelectromagnetic forward head modeling
+  toolbox,'' {\em J. Neurosci. Methods}, vol.~190, pp.~258--270, July 2010.
+
+\end{thebibliography}
