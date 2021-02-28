@@ -5,37 +5,36 @@ The style file: ieeetr.bst
 Database file #1: chapters/../refs.bib
 Warning--entry type for "Engels2013-gm" isn't style-file defined
 --line 65629 of file chapters/../refs.bib
-Warning--I didn't find a database entry for "ft_scan_tut"
-You've used 60 entries,
+You've used 61 entries,
             1876 wiz_defined-function locations,
-            874 strings with 16647 characters,
-and the built_in function-call counts, 18793 in all, are:
-= -- 1883
-> -- 844
+            877 strings with 16762 characters,
+and the built_in function-call counts, 18905 in all, are:
+= -- 1895
+> -- 845
 < -- 0
-+ -- 303
++ -- 304
 - -- 243
-* -- 1442
-:= -- 2624
-add.period$ -- 62
-call.type$ -- 60
-change.case$ -- 60
+* -- 1445
+:= -- 2635
+add.period$ -- 64
+call.type$ -- 61
+change.case$ -- 61
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 934
-empty$ -- 1532
+cite$ -- 61
+duplicate$ -- 938
+empty$ -- 1550
 format.name$ -- 243
-if$ -- 4539
+if$ -- 4571
 int.to.chr$ -- 0
-int.to.str$ -- 60
+int.to.str$ -- 61
 missing$ -- 57
-newline$ -- 185
+newline$ -- 189
 num.names$ -- 58
-pop$ -- 133
+pop$ -- 141
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 820
+skip$ -- 823
 stack$ -- 0
 substring$ -- 1321
 swap$ -- 494
@@ -45,6 +44,6 @@ top$ -- 0
 type$ -- 0
 warning$ -- 0
 while$ -- 185
-width$ -- 62
-write$ -- 588
-(There were 2 warnings)
+width$ -- 63
+write$ -- 596
+(There was 1 warning)

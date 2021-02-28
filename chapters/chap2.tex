@@ -1,10 +1,10 @@
 \documentclass[../thesis_seyed.tex]{subfiles}
 % \graphicspath{{\subfix{../img/}}}
 \begin{document}
-\chapter{Influence of Mismarking Fiducial Locations on EEG Source Estimation}
+\chapter{INFLUENCE OF MISMARKING FIDUCIALS ON EEG SOURCE ESTIMATION}
 \section{Introduction}
 
-Digitizing electrode locations is an essential step for setting up a head model to estimate cortical and subcortical sources from magneto-/electro-encephalography (M/EEG) signals \cite{Koessler2007-qg}. The digitizing process involves recording three-dimensional positions of the M/EEG electrodes in a global coordinate system and transforming the locations from the global coordinates to the head coordinate system. This transformation requires that the two coordinate systems share at least three anatomical landmarks (i.e. fiducials). The fiducials are typically the left preauricular, right preauricular, and nasion \cite{Koessler2007-qg,Fuchs2007-dd}.
+Digitizing electrode locations is an essential step for setting up a head model to estimate cortical and subcortical sources from magneto-/electro-encephalography (M/EEG) signals \cite{Koessler2007-qg} \footnote{This chapter has been published in bioRxiv, and was presented in the 2019 IEEE/EMBS conference on Neural Engineering (NER), doi:10.1101/544288}. The digitizing process involves recording three-dimensional positions of the M/EEG electrodes in a global coordinate system and transforming the locations from the global coordinates to the head coordinate system. This transformation requires that the two coordinate systems share at least three anatomical landmarks (i.e. fiducials). The fiducials are typically the left preauricular, right preauricular, and nasion \cite{Koessler2007-qg,Fuchs2007-dd}.
 
 After digitizing the 3D locations of the fiducials and electrodes, these locations are warped to a head model or vice versa \cite{Akalin_Acar2013-rv}. For studies that involve concurrent tomographic imaging such as magnetic resonance imaging (MRI), digitization, transformation to the head coordinate system, and warping to the head model can be made simultaneously \cite{Marino2016-pu}, but for other studies, digitized locations must be manually coregistered to construct the head model \cite{Koessler2007-qg}. Therefore, digitizing can significantly affect the ability to achieve a realistic head model and estimations of source locations \cite{Akalin_Acar2013-rv}.
 
