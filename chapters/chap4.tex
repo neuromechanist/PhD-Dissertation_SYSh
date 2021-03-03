@@ -45,6 +45,13 @@ We quantified two motor error metrics, one temporal and one spatial, from the st
 \subsection{EMG processing}
 We imported and analyzed the EMG data in the Python environment using a custom processing pipeline based on Banks et al. \cite{Banks2017-dn}. We resampled the EMG data to 1 kHz, band-pass filtered between 30 and 200 Hz, rectified, and low-pass filtered at 20 Hz to obtain the EMG linear envelopes. Filters were designed using the 6th-order Butterworth algorithm. We chose 20 Hz as the low-pass threshold to capture EMG fluctuations in response to our 200-ms perturbations \cite{Shiavi1998-vu}. We then epoched and time-normalized the EMG data based on the stepping events for each stride. Finally, we normalized each muscle's linear envelope to the overall average of the muscle's linear envelope across all tasks.
 
+\begin{table}[H]
+    \centering
+    \caption{Agonist muscles to drive the stepper for the left- and right-side tasks. L = left. R = right.}
+    \includegraphics{../img/agonist.png}
+    \label{tab:agonist}
+\end{table}
+
 We used the 'fixed' approach to quantify co-contraction \cite{Banks2017-dn}. We assumed that the agonist was the muscle that could drive the stepper without the activity of the other muscles. During the step that involved left leg extension, the left soleus, left rectus femoris, left posterior deltoid, right tibialis anterior, right semitendinosus, and right anterior deltoid act as functional agonists. The agonist muscles of the muscle pairs for each step are summarized in Table 1. The fixed co-contraction index (CI) is calculated using the following equation:
 
 \[CI=\frac{2*I_{antagonist}}{I_{agonist}+I_{antagonist}}\]
