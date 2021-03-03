@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: chap4.aux
+The style file: ieeetr.bst
+Database file #1: chapters/../refs.bib
+Warning--empty note in Wittenberg2020-bz
+Warning--empty note in Alizadehsaravi2020-wh
+You've used 43 entries,
+            1876 wiz_defined-function locations,
+            797 strings with 14317 characters,
+and the built_in function-call counts, 14501 in all, are:
+= -- 1431
+> -- 734
+< -- 0
++ -- 260
+- -- 217
+* -- 1170
+:= -- 2084
+add.period$ -- 44
+call.type$ -- 43
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 45
+duplicate$ -- 670
+empty$ -- 1104
+format.name$ -- 217
+if$ -- 3427
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 40
+newline$ -- 133
+num.names$ -- 43
+pop$ -- 60
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 610
+stack$ -- 0
+substring$ -- 1100
+swap$ -- 367
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 143
+width$ -- 45
+write$ -- 426
+(There were 2 warnings)
