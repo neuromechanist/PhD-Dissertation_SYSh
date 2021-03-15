@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: chap5.aux
+The style file: ieeetr.bst
+Database file #1: chapters/../refs.bib
+Warning--empty journal in Pion-Tonachini2019-gv
+You've used 50 entries,
+            1876 wiz_defined-function locations,
+            823 strings with 14563 characters,
+and the built_in function-call counts, 16127 in all, are:
+= -- 1649
+> -- 691
+< -- 0
++ -- 248
+- -- 198
+* -- 1247
+:= -- 2253
+add.period$ -- 51
+call.type$ -- 50
+change.case$ -- 49
+chr.to.int$ -- 0
+cite$ -- 51
+duplicate$ -- 783
+empty$ -- 1300
+format.name$ -- 198
+if$ -- 3880
+int.to.chr$ -- 0
+int.to.str$ -- 50
+missing$ -- 51
+newline$ -- 154
+num.names$ -- 50
+pop$ -- 82
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 703
+stack$ -- 0
+substring$ -- 1254
+swap$ -- 421
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 165
+width$ -- 52
+write$ -- 495
+(There was 1 warning)
